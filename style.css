@@ -1,12 +1,25 @@
+body {
+background-image: url(fondo.png);
+color: whitesmoke;
+}
+
 h1{
-
     font-family: Arvo;
+}
+
+.img-1, .img-2, .img-3, .img-4{
+
+width: 400px;
+height: 300px;
 
 }
 
-.img-1, .img-2, .img-3{
+p, h1, h2, h3, h4, nav, ul {
 
-width: 350px;
-height: 250px;
-
+    background-color: darkblue;
 }
+
+.texto-centrado {
+    text-align: center;
+}
+
